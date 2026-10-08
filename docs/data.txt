@@ -1,0 +1,5 @@
+# Data notes (2023 season)
+- R14 TSU, R15 STR, R17 SAI, R20 LEC: in results, 0 laps in FastF1 timing. Source gap, not pipeline. Reason: (fill in after the Status check)
+- R8 TSU laps (fill in range): Compound is the string "None", TyreLife NaN. Rule: convert to NaN, exclude from tyre models.
+- Rainfall flag is not the same as wet tyres: Spa (R12) had rain flagged on 12% of laps but no intermediates or wets.
+- Wet compounds appear only in R6 (Monaco) and R13 (Zandvoort).
